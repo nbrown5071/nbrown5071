@@ -1,8 +1,7 @@
 ## Welcome to my GitHub Page 👋
 <br/>
 Here you can find addtional work not featured on my [portfolio page](https://nbrown5071.github.io/).
-
-
+<br/>
 Some personal quick notes about me:
 
 - 🔭 I’m currently working on being a long distance cyclist
