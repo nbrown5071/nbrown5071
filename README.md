@@ -1,8 +1,7 @@
 ## Welcome to my GitHub Page 👋
 <br/>
 Here you can find addtional work not featured on my [portfolio page](https://nbrown5071.github.io/).
-<!--
-**nbrown5071/nbrown5071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Some personal quick notes about me:
 
@@ -12,4 +11,4 @@ Some personal quick notes about me:
 - 💬 Ask me about anything wellness related, tips for traveling abroad, and of course Business Intelligence/ Process Improvement. 
 - 📫 How to reach me: You can DM me on [LinkedIn](www.linkedin.com/in/nathan-brown-bia)
 - ⚡ Fun fact: I am a licensed massage therapist.
--->
+
