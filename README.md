@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page 👋
 <br/>
-Here you can find addtional work not featured on my [Portfolio Page](https://github.com/nbrown5071/nbrown5071.github.io).
+Here you can find addtional work not featured on my Portfolio Page.
 <br/>
 Some personal quick notes about me:
 
