@@ -7,6 +7,7 @@ Please take the time to view the README files. They contain relevant information
 <br/>
 Ice breaker portion/ about me:
 <br/>
+<br/>
 - 🔭 I’m currently working on being a long distance cyclist
 - 🌱 I’m currently learning. I love to learn for the sake of learning. I enjoy reading non-fiction just as much as fiction because I enjoy learning. It also helps me to be a better analyst because it exposes me to a variety of information and tools. I am always working on improving my Excel, SQL, and visulization skills. I am also working to improve my python skills. 
 - 👯 I’m looking to get involved with non-profits and health/ medical science related projects. 
