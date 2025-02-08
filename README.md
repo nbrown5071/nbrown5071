@@ -4,7 +4,7 @@ Here you can find my Portfolio Projects which demostrate my skills and proficien
 
 ### Read the README
 Please take the time to view the README files. They contain relevant information for each project; project description, findings, reviewer comments, etc. 
-<br/>
+
 
 ### Ice breaker portion/ about me: 
 
