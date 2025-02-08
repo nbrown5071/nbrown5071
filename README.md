@@ -3,7 +3,7 @@
 Here you can find my Portfoli Projects which demostrate my skills and proficiency with business analytic tools like SQL, Tableau, Excel, etc. 
 <br/>
 <br/>
-Please take the time to view the README files. They contain relevant information for each project; project descrisption, findings, reviewer comments, etc. 
+Please take the time to view the README files. They contain relevant information for each project; project description, findings, reviewer comments, etc. 
 <br/>
 <br/>
 Ice breaker portion/ about me:
