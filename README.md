@@ -20,6 +20,6 @@ Ice breaker portion/ about me:
 <br/>
 - 📫 How to reach me: You can DM me on [LinkedIn](www.linkedin.com/in/nathan-brown-bia).
 
-<br/>
+
 - ⚡ Fun fact: I am a licensed and practicing massage therapist with 10 years of experience.
 
