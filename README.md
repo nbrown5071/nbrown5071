@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page 👋
+# Welcome to my GitHub Page 👋
 <br/>
 Here you can find my Portfolio Projects which demostrate my skills and proficiency with business analytic tools like SQL, Tableau, Excel, etc. 
 <br/>
