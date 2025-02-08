@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page 👋
 <br/>
-Here you can find my Portfoli Projects which demostrate my skills and proficiency with business analytic tools like SQL, Tableau, Excel, etc. 
+Here you can find my Portfolio Projects which demostrate my skills and proficiency with business analytic tools like SQL, Tableau, Excel, etc. 
 <br/>
 <br/>
 Please take the time to view the README files. They contain relevant information for each project; project description, findings, reviewer comments, etc. 
@@ -18,7 +18,7 @@ Ice breaker portion/ about me:
 <br/>
 - 💬 Ask me about anything wellness related, tips for traveling abroad, and of course Business Intelligence/ Process Improvement.
 <br/>
-- 📫 How to reach me: You can DM me on
+- 📫 How to reach me: You can DM me on [LinkedIn](www.linkedin.com/in/nathan-brown-bia).
 <br/>
 - ⚡ Fun fact: I am a licensed and practicing massage therapist with 10 years of experience.
 
