@@ -6,7 +6,7 @@ Here you can find my Portfoli Projects which demostrate my skills and proficienc
 Please take the time to view the README files. They contain relevant information for each project; project description, findings, reviewer comments, etc. 
 <br/>
 <br/>
-### Ice breaker portion/ about me:
+# Ice breaker portion/ about me:
 <br/>
 <br/>
 - 🔭 I’m currently working on being a long distance cyclist.
