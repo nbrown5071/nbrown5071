@@ -4,7 +4,7 @@ Here you can find my Portfoli Projects which demostrate my skills and proficienc
 <br/>
 Please take the time to view the README files. They contain relevant information for each project; project descrisption, findings, reviewer comments, etc. 
 <br/>
-
+<br/>
 Ice breaker portion/ about me:
 
 - 🔭 I’m currently working on being a long distance cyclist
